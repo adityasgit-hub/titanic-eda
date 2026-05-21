@@ -1,4 +1,4 @@
-# 🛳️ Titanic EDA (Exploratory Data Analysis)
+# 🛳️ Titanic EDA | Exploratory Data Analysis
 
 ## 📌 Project Overview
 
